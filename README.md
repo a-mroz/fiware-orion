@@ -120,7 +120,7 @@ How to run Orion Context Broker can be found at
 
 ## Usage
 
-In order to create an entity (Room1) with two attributes (temperature and
+In order to create an entity (Room2) with two attributes (temperature and
 pressure):
 
 ```console
